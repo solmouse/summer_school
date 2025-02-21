@@ -6,10 +6,10 @@ module.exports = merge(common, {
   mode: "production",
   output: {
     filename: "bundle.js",
-    path: path.resolve(__dirname, "docs"),
-    publicPath: "./", // ✅ 상대 경로 사용
+    path: path.resolve(__dirname, "docs"), // 배포용 폴더
+    publicPath: "/summer_school/", // GitHub Pages용 publicPath 설정
   },
   optimization: {
-    minimize: true,
+    minimize: true, // 코드 최적화
   },
 });
