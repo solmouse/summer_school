@@ -12,7 +12,7 @@ module.exports = merge(common, {
   },
   plugins: [
     new CopyWebpackPlugin({
-      patterns: [{ from: "public/data.json", to: "docs/data.json" }], // ✅ data.json 복사
+      patterns: [{ from: "public/data.json", to: "data.json" }], // ✅ data.json 복사
     }),
   ],
   optimization: {
