@@ -1,0 +1,338 @@
+[
+  {
+    "continent": "아시아",
+    "nation": "일본",
+    "uni_name_eng": "Waseda Summer Session",
+    "uni_name_ko": "와세다대학교",
+    "lat": 35.7081,
+    "lng": 139.722,
+    "partner": "",
+    "course_point": "아시아 대표 경영대학에서 배우는 비즈니스 & 문화 & 정치 📈",
+    "category": [
+      "경영경제",
+      "사회과학"
+    ],
+    "program_date": "6. 14 - 7. 25",
+    "program_date_tidily": "6-7월",
+    "program_duration": "7주",
+    "application_due": "3. 7",
+    "teaching_lang": "영어",
+    "minimum_lang": "TOEFL (iBT) 79\nTOEFL (pbt) 550\nIETLS 6.0\n",
+    "partner_adv": "",
+    "adv": "A(500만 원)",
+    "expense": "프로그램 및 거주 형태마다 \n상이",
+    "link": "https://waseda-summer.com/",
+    "intern_program": "",
+    "accomodation": "기숙사",
+    "program_months": [
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      }
+    ]
+  },
+  {
+    "continent": "아시아",
+    "nation": "일본",
+    "uni_name_eng": "The University of Tokyo",
+    "uni_name_ko": "도쿄대학교",
+    "lat": 35.7126,
+    "lng": 139.761,
+    "partner": "",
+    "course_point": "세계적 STEM 연구대학의 STEM 코스부터 인문학 코스까지",
+    "category": [
+      "공학",
+      "사회과학",
+      "경영경제",
+      "자연과학",
+      "인문예술",
+      "언어·지역학"
+    ],
+    "program_date": "6. 16 - 7. 28",
+    "program_date_tidily": "6월, 6월-7월, 7월",
+    "program_duration": "1주, 2주",
+    "application_due": "3. 14",
+    "teaching_lang": "영어",
+    "minimum_lang": "TOEFL (iBT) 90\nIETLS 6.5\n",
+    "partner_adv": "등록금 15% 할인 (AUA 회원/USTEP 파트너 대학에 해당)",
+    "adv": "A(500만 원)",
+    "expense": "JPY 180,000/course +\nJPY 5,000 (application fee)",
+    "link": "https://www.u-tokyo.ac.jp/en/prospective-students/guc.html",
+    "intern_program": "",
+    "accomodation": "미제공",
+    "program_months": [
+      {
+        "program_month": [
+          6
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          6,
+          7
+        ],
+        "is_range": true
+      },
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      }
+    ]
+  },
+  {
+    "continent": "아시아",
+    "nation": "홍콩",
+    "uni_name_eng": "The Chinese University of Hong Kong\n(CUHK)",
+    "uni_name_ko": "홍콩중문대학교",
+    "lat": 22.4195,
+    "lng": 114.207,
+    "partner": "파트너대학",
+    "course_point": "8주간 홍콩에서 연구하는 경험 🔬",
+    "category": [
+      "공학",
+      "사회과학",
+      "경영경제",
+      "자연과학",
+      "인문예술",
+      "언어·지역학"
+    ],
+    "program_date": "6. 22 - 8. 16",
+    "program_date_tidily": "6-8월",
+    "program_duration": "8주",
+    "application_due": "2. 14",
+    "teaching_lang": "영어 / 중국어",
+    "minimum_lang": "TOEFL (iBT) 71\nIETLS 6.0\n",
+    "partner_adv": "등록금 면제",
+    "adv": "확인 필요 (24년 기준, 등록금 면제시 여비지원 X)",
+    "expense": "프로그램마다 상이",
+    "link": "https://www.summer.cuhk.edu.hk/surp/",
+    "intern_program": "연구실인턴",
+    "accomodation": "기숙사",
+    "program_months": [
+      {
+        "program_month": [
+          8
+        ],
+        "is_range": false
+      }
+    ]
+  },
+  {
+    "continent": "아시아",
+    "nation": "홍콩",
+    "uni_name_eng": "The University of Hong Kong",
+    "uni_name_ko": "홍콩대학교",
+    "lat": 22.283,
+    "lng": 114.137,
+    "partner": "파트너대학",
+    "course_point": "✯재ㅁㅣ있는 프로젝트➞ ㄷHㄱㅓ 준비 ல♛✜\n일본X✎홍콩 ❉♝프로그램도 있음\n➺๑미디어☜부터 ❦화학◈까지 분야 ㄷㅏ양➹✹",
+    "category": [
+      "공학",
+      "사회과학",
+      "경영경제",
+      "자연과학",
+      "인문예술",
+      "언어·지역학"
+    ],
+    "program_date": "6.16-8.15",
+    "program_date_tidily": "6월-7월, 7월, 7월-8월, 8월",
+    "program_duration": "2주, 3주",
+    "application_due": "프로그램마다 상이하나, 대부분 2.7 (조기할인 10%), 3.21",
+    "teaching_lang": "영어",
+    "minimum_lang": "TOEFL (iBT) 80\nIETLS 6.0",
+    "partner_adv": "등록금 10% 할인",
+    "adv": "A(500만 원)",
+    "expense": "프로그램마다 상이",
+    "link": "https://www.summerinstitute.hku.hk/programmes/undergraduate-postgraduate-programmes",
+    "intern_program": "연구실인턴",
+    "accomodation": "기숙사, 호텔",
+    "program_months": [
+      {
+        "program_month": [
+          6,
+          7
+        ],
+        "is_range": true
+      },
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          7,
+          8
+        ],
+        "is_range": true
+      },
+      {
+        "program_month": [
+          8
+        ],
+        "is_range": false
+      }
+    ]
+  },
+  {
+    "continent": "아시아",
+    "nation": "싱가포르",
+    "uni_name_eng": "National University of Singapore",
+    "uni_name_ko": "싱가포르국립대학교(NUS)",
+    "lat": 1.2966,
+    "lng": 103.7764,
+    "partner": "파트너대학",
+    "course_point": "아시아 최상위 대학에서 외국인과 창업 해커톤! 🚀",
+    "category": [
+      "공학",
+      "경영경제"
+    ],
+    "program_date": "7. 7 - 8. 15",
+    "program_date_tidily": "7월",
+    "program_duration": "2주",
+    "application_due": "3. 31",
+    "teaching_lang": "영어",
+    "minimum_lang": "TOEFL (iBT) 100\nIETLS 6.5",
+    "partner_adv": "",
+    "adv": "A(500만 원)",
+    "expense": "SGD 5,600",
+    "link": "https://enterprise.nus.edu.sg/education-programmes/summer-programme/",
+    "intern_program": "",
+    "accomodation": "기숙사",
+    "program_months": [
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      }
+    ]
+  },
+  {
+    "continent": "아시아",
+    "nation": "싱가포르",
+    "uni_name_eng": "Singapore Management University",
+    "uni_name_ko": "싱가포르경영대학교(SMU)",
+    "lat": 1.2966,
+    "lng": 103.8506,
+    "partner": "",
+    "course_point": "경영에 디지털 기술 더해서~ ➕",
+    "category": [
+      "공학",
+      "경영경제"
+    ],
+    "program_date": "6. 23 - 8. 1",
+    "program_date_tidily": "6-7월, 7-8월",
+    "program_duration": "4주",
+    "application_due": "4. 15",
+    "teaching_lang": "영어",
+    "minimum_lang": "TOEFL 90\nIELTS 6.5",
+    "partner_adv": "",
+    "adv": "A(500만 원)",
+    "expense": "SGD 3755 - 5965",
+    "link": "https://geo.smu.edu.sg/study-in-smu/global-summer-programme",
+    "intern_program": "",
+    "accomodation": "미제공",
+    "program_months": [
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          8
+        ],
+        "is_range": false
+      }
+    ]
+  },
+  {
+    "continent": "아시아",
+    "nation": "싱가포르",
+    "uni_name_eng": "Nanyang Technological University",
+    "uni_name_ko": "난양공과대학교(NTU)",
+    "lat": 1.3483,
+    "lng": 103.6831,
+    "partner": "파트너대학",
+    "course_point": "여름학교에 진심! 비즈니스 & 기술 다루는 5개 트랙 준비",
+    "category": [
+      "공학",
+      "경영경제"
+    ],
+    "program_date": "6. 23 - 7. 19",
+    "program_date_tidily": "6-7월, 7월",
+    "program_duration": "2주, 4주",
+    "application_due": "3. 31",
+    "teaching_lang": "영어",
+    "minimum_lang": "IELTS/ IELTS indicator: a minimum 6 (overall) and 6 (writing)\nTOEFL/ TOEFL iBT Special Home Edition: a minimum of 600 (paper) or 90 (internet) or 237 (computer). ",
+    "partner_adv": "등록금 면제 (최대 2코스)",
+    "adv": "확인 필요 (24년 기준, 등록금 면제시 여비지원 X)",
+    "expense": "SGD 1070",
+    "link": "https://ntu-sa.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11025",
+    "intern_program": "",
+    "accomodation": "기숙사",
+    "program_months": [
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      }
+    ]
+  },
+  {
+    "continent": "오세아니아",
+    "nation": "호주",
+    "uni_name_eng": "University of Adelaide",
+    "uni_name_ko": "애들레이드대학교",
+    "lat": -34.9205,
+    "lng": 138.6062,
+    "partner": "",
+    "course_point": "호주 8대 명문대의 농업·생활과학 & 호주 와인 코스 🍷",
+    "category": [
+      "자연과학",
+      "사회과학",
+      "인문예술"
+    ],
+    "program_date": "6. 27 - 7.26",
+    "program_date_tidily": "6-7월, 7월",
+    "program_duration": "1주, 2주, 3주, 4주",
+    "application_due": 5.1,
+    "teaching_lang": "영어",
+    "minimum_lang": "IELTS 6.5\n(각 Band별 6.0 이상)\nTOEFL 79\n(Writing 21, Speaking 18, Reading and Listening 13 이상)",
+    "partner_adv": "",
+    "adv": "A(500만 원)",
+    "expense": "AUD 5,000 - 9,500",
+    "link": "https://www.adelaide.edu.au/inbound-study-abroad/summer-winter-school ",
+    "intern_program": "",
+    "accomodation": "미제공",
+    "program_months": [
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      }
+    ]
+  }
+]
