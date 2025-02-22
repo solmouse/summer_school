@@ -17,20 +17,35 @@
       "언어·지역학"
     ],
     "program_date": "6. 2 - 6. 20(세션1)\n6. 23 - 7. 11(세션 2)\n7. 14 - 8. 1(세션 3)",
-    "program_date_tidily": "",
-    "program_duration": "3주",
+    "program_date_tidily": "6월, 6-7월, 7-8월",
+    "program_duration": "3주, 6주, 8주",
     "application_due": "5. 19(세션1)\n6. 9(세션 2)\n6. 30(세션 3)",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 100\nIETLS 7.0",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "$1,840/credit hour",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "USD 1,840/크레딧 아워",
     "link": "https://sce.cornell.edu/courses/programs/summer",
     "intern_program": "",
     "accomodation": "",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          6
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -53,20 +68,23 @@
       "언어·지역학"
     ],
     "program_date": "7월 - 8월",
-    "program_date_tidily": "",
+    "program_date_tidily": "7-8월",
     "program_duration": "4주",
     "application_due": "5. 1",
     "teaching_lang": "영어",
     "minimum_lang": "프로그램마다 상이",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "미기재",
     "link": "https://www.stonybrook.edu/summer/",
     "intern_program": "",
     "accomodation": "",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -89,20 +107,23 @@
       "언어·지역학"
     ],
     "program_date": "6. 30 - 8. 1",
-    "program_date_tidily": "",
+    "program_date_tidily": "6-8월",
     "program_duration": "4주",
     "application_due": "5. 5",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (ibt) 100\nIELTS 7.0\n듀오링고 120\n",
-    "partner_adv": "접수비: 면제 (원래 $80)",
-    "adv": "A(500만 원)",
-    "expense": "등록금($8,432) + 숙박비($4,400) + \n기타금액 = 총 $13,072",
+    "minimum_lang_tidily": "",
+    "partner_adv": "접수비 면제 (원래 $80)",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "등록금(USD 8,432) + 숙박비(USD 4,400) + 기타금액 = 총 USD 13,072",
     "link": "http://summer.yale.edu",
     "intern_program": "",
-    "accomodation": "",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -130,9 +151,10 @@
     "application_due": "프로그램 및 비자마다 \n상이",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (ibt) 80\nIETLS 6.5\n듀오링고 115\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "$615/unit + $550 (registration fee) + \n$500 (international service fee) + \n$71 (document management fee)",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "USD 615/유닛 + 550 (등록비) + 500 (국제서비스비) + 71 (문서관리비)",
     "link": "https://summer.berkeley.edu/international",
     "intern_program": "",
     "accomodation": "",
@@ -166,9 +188,10 @@
     "application_due": "프로그램마다 \n상이",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (ibt) 80\nIETLS 6.5\n듀오링고 105\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "$385/unit + $350 (registration fee) + \n$500 (service fee) + $61 (IEI fee) +\n$50 (document fee) + $59 (istart fee) +\n$440 (health insurance",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "USD 385/유닛 + 350 (등록비) + \n500 (서비스비) + 61 (IEI 요금) +\n50 (문서비) + 59 (istart 요금) +\n$440 (건강보험)",
     "link": "https://summer.ucla.edu/student-types/visiting-college-students/#options",
     "intern_program": "",
     "accomodation": "",
@@ -202,9 +225,10 @@
     "application_due": "",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (ibt) 80\nIETLS 6.5\n듀오링고 120\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": 16306,
+    "adv": "A등급 국가(500만 원)",
+    "expense": "USD 16306",
     "link": "https://visp.wisc.edu/summer/#january-march",
     "intern_program": "",
     "accomodation": "",
@@ -238,8 +262,9 @@
     "application_due": "",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (ibt) 100\nIETLS 7.5\n듀오링고 125\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "프로그램마다 상이",
     "link": "https://summer.harvard.edu/",
     "intern_program": "",
@@ -274,9 +299,10 @@
     "application_due": "5. 1",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 79\nIETLS 6.5",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": 4216,
+    "adv": "A등급 국가(500만 원)",
+    "expense": "USD 4216",
     "link": "https://summer.uci.edu/",
     "intern_program": "",
     "accomodation": "",
@@ -310,9 +336,10 @@
     "application_due": "",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 100\nIETLS 7.0",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": 14456,
+    "adv": "A등급 국가(500만 원)",
+    "expense": "USD 14456",
     "link": "https://summer.sas.upenn.edu/",
     "intern_program": "",
     "accomodation": "",
@@ -331,7 +358,7 @@
     "lat": 49.260872,
     "lng": -123.113953,
     "partner": "",
-    "course_point": "60개 이상 다양한 과목 패키지! 과학, 건축, 간호, 예술, 비즈니스, 교육, 의학 등",
+    "course_point": "60개+ 다양한 패키지 수업 제공 (심리+신경과학, 웹+딥러닝 등)\n🐟 해양수산연구소 인턴 기회까지 ",
     "category": [
       "공학",
       "사회과학",
@@ -341,20 +368,23 @@
       "언어·지역학"
     ],
     "program_date": "7. 11 - 8. 11",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "7-8월",
+    "program_duration": "4주",
     "application_due": "4. 4",
     "teaching_lang": "영어",
     "minimum_lang": "없음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "CAD $5975",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "CAD 5975",
     "link": "https://vancouversummerprogram.ubc.ca/",
     "intern_program": "",
-    "accomodation": "",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -367,7 +397,7 @@
     "lat": 51.511806,
     "lng": -0.116708,
     "partner": "파트너대학",
-    "course_point": "화생공 & 생명 주목! 영국병원에서 6주간 생물공학 연구를? 🔬 + 2주/4주 사회과학 코스 등",
+    "course_point": "영국병원에서 6주간 생물공학 연구를? 🔬\n+ 2주/4주 사회과학 코스 등",
     "category": [
       "공학",
       "사회과학",
@@ -377,20 +407,35 @@
       "언어·지역학"
     ],
     "program_date": "6. 30 - 7.11(세션1)\n7. 14 - 7. 25(세션 2)",
-    "program_date_tidily": "",
+    "program_date_tidily": "6-7월, 6-8월, 7월",
     "program_duration": "2주, 4주, 6주",
     "application_due": "2025. 5. 9\n등록금 면제 마감일: 2025. 3. 31",
     "teaching_lang": "영어",
     "minimum_lang": "토플 95, IELTS 6.5, 듀오링고 105",
-    "partner_adv": "접수비:  £ 60\n등록금 면제 (32명 가능)",
+    "minimum_lang_tidily": "",
+    "partner_adv": "접수비:  £ 60, 등록금 면제 (32명 가능)",
     "adv": "등록금 면제 - 확인 필요 (24년 기준, 등록금 면제시 여비지원 X)",
     "expense": "프로그램마다 상이",
     "link": "https://www.kcl.ac.uk/summer/university-level/undergraduate-summer-school",
-    "intern_program": "",
-    "accomodation": "",
+    "intern_program": "연구실인턴",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          8
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          7
+        ],
         "is_range": false
       }
     ]
@@ -403,7 +448,7 @@
     "lat": 53.806684,
     "lng": -1.555031,
     "partner": "파트너대학",
-    "course_point": "과학•공학 한정적 - 예술, 인문, 경영, 사회 코스 위주",
+    "course_point": "과학•공학 한정적 - 인문예술, 경영, 사회 위주 수업",
     "category": [
       "공학",
       "사회과학",
@@ -413,20 +458,29 @@
       "언어·지역학"
     ],
     "program_date": "6. 28 - 7. 26",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "6-7월, 7월",
+    "program_duration": "2주",
     "application_due": "5. 1",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (ibt) 72\nIETLS 5.5\n듀오링고 90\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": " £3,900",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "GBP 3,900",
     "link": "https://www.leeds.ac.uk/leeds-international-summer-school",
     "intern_program": "",
-    "accomodation": "",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          7
+        ],
         "is_range": false
       }
     ]
@@ -439,7 +493,7 @@
     "lat": 51.524559,
     "lng": -0.13404,
     "partner": "",
-    "course_point": "☏ 모든 분야 &  압도적 강의수 ☏ 컴공 & 의학 수업 제공!",
+    "course_point": "☏ 모든 분야 & 압도적 강의수 ☏ 컴공 & 의학 수업 제공!",
     "category": [
       "공학",
       "사회과학",
@@ -449,20 +503,29 @@
       "언어·지역학"
     ],
     "program_date": "6. 30 - 8. 8",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "6-7월, 7-8월",
+    "program_duration": "3주",
     "application_due": "",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (ibt) 96\nIETLS 7.0\n듀오링고 125\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "£4,950",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "GBP 4,950",
     "link": "https://www.ucl.ac.uk/prospective-students/summer-school/",
     "intern_program": "",
-    "accomodation": "",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -480,20 +543,23 @@
       "인문예술"
     ],
     "program_date": "7. 17 - 7. 31",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "7월",
+    "program_duration": "2주",
     "application_due": "5. 17",
     "teaching_lang": "영어",
     "minimum_lang": "없음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "£2300",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "GBP 2300",
     "link": "https://www.york.ac.uk/global-summer/undergraduate/",
     "intern_program": "",
-    "accomodation": "",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          7
+        ],
         "is_range": false
       }
     ]
@@ -512,20 +578,23 @@
       "언어·지역학"
     ],
     "program_date": "8. 4 - 8. 22",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "8월",
+    "program_duration": "3주",
     "application_due": "6. 22",
     "teaching_lang": "영어",
     "minimum_lang": "프로그램마다 상이",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "£2300",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "GBP 2300",
     "link": "https://le.ac.uk/cite/eltu/short-courses/summer",
     "intern_program": "",
-    "accomodation": "",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -538,26 +607,35 @@
     "lat": 51.524067,
     "lng": -0.040567,
     "partner": "파트너대학",
-    "course_point": "문학으로 읽는 테일러 ✍️ 다양한 문화예술 & 법•정치 수업 제공",
+    "course_point": "문학으로 읽는 테일러 스위프트 🎶🧝‍♀️\n다양한 문화예술 & 법•정치 수업 제공",
     "category": [
       "인문예술",
       "사회과학"
     ],
     "program_date": "6. 29 - 7. 20(세션 1)\n7. 20 - 8. 10(세션 2)",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "6-7월, 7-8월",
+    "program_duration": "3주",
     "application_due": "5. 26",
     "teaching_lang": "영어",
     "minimum_lang": "명시되어 있지 않음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "등록금 10% 할인",
-    "adv": "A(500만 원)",
-    "expense": "£3513(One session)\n£6925(Two sessions)",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "GBP 3513(세션 1개), GBP 6925(세션 2개)",
     "link": "https://www.qmul.ac.uk/summer-school/",
     "intern_program": "",
     "accomodation": "",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -570,26 +648,35 @@
     "lat": 55.872121,
     "lng": -4.288315,
     "partner": "파트너대학",
-    "course_point": "서울대 종강 직후 개강 ⚠️ 문학·법정심리학·교육 관심자 필수!",
+    "course_point": "⚠️ 서울대 종강 직후 개강 ⚠️\n화학/역사 연구 + 영국 예술문화 공부의 기회",
     "category": [
       "인문예술",
       "사회과학"
     ],
     "program_date": "6. 19 - 7. 5",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "6-7월, 6-8월",
+    "program_duration": "1주, 2주, 4주, 6주",
     "application_due": "4월",
     "teaching_lang": "영어",
     "minimum_lang": "IETLS 6.0",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "프로그램마다 상이",
     "link": "https://www.gla.ac.uk/study/visiting/internationalsummerschool/",
-    "intern_program": "",
-    "accomodation": "",
+    "intern_program": "연구실인턴",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -602,27 +689,36 @@
     "lat": 25.651519,
     "lng": -100.289629,
     "partner": "",
-    "course_point": "무려 4개 캠퍼스에서 멕시코 비즈니스, 문화, 경제 알아보기 🔍",
+    "course_point": "⚠️ 수업 언어: 스페인어, 영어 ⚠️ \n4개 캠퍼스 돌며 멕시코 비즈니스, 문화 알아보는 수업도 🔍",
     "category": [
       "경영경제",
       "사회과학",
       "언어·지역학"
     ],
     "program_date": "6. 30 - 8. 1",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "6-7월, 6-8월",
+    "program_duration": "4주, 5주",
     "application_due": "5. 9 (Nomination)\n5. 16 (Application)",
     "teaching_lang": "영어",
     "minimum_lang": "명시되어 있지 않음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "프로그램과 Type of student마다 상이",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "프로그램과 학생 타입마다 상이",
     "link": "https://studyinmexico.tec.mx/en/tec-summer-school",
     "intern_program": "",
-    "accomodation": "",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -635,27 +731,36 @@
     "lat": 52.517037,
     "lng": 13.392334,
     "partner": "",
-    "course_point": "EU 내 최대 도시에서 배우는 도시학! 🏙 + 독일 법·정치·문화",
+    "course_point": "EU 최대 도시에서 배우는 도시학! 🏙 + 독일 법·정치·문화",
     "category": [
       "인문예술",
       "사회과학",
       "언어·지역학"
     ],
     "program_date": "6. 16 - 7. 11(세션1)\n7. 14 - 8. 8(세션 2)",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "6-7월, 7-8월",
+    "program_duration": "4주",
     "application_due": "5. 15(모든 세션)\n",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 90\nIETLS 6.5\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "과목마다 상이 EUR 850-1,000",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "과목마다 상이, EUR 850-1,000",
     "link": "https://hic.hu-berlin.de/en/huwisu/courses/summer",
     "intern_program": "",
     "accomodation": "",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -668,26 +773,29 @@
     "lat": 52.512645,
     "lng": 13.326863,
     "partner": "파트너대학",
-    "course_point": "건축·우주·프로그래밍 전공자 집중! 🏗 + 독일어 교육까지",
+    "course_point": "건축·우주·프로그래밍 전공자 집중! 🏗\n+ 독일어 교육까지~",
     "category": [
       "공학",
       "언어·지역학"
     ],
     "program_date": "7. 7 - 8. 29(대면)\n7. 21 - 8. 15(온라인)",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "7-8월",
+    "program_duration": "2주, 4주",
     "application_due": "6. 6(대면)\n6. 20(온라인)",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 87\nIETLS 5-6\n\nTEPS 327",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "EUR 2,150(대면)\nEUR 1,080(온라인)",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "EUR 2,150(대면) / EUR 1,080(온라인)",
     "link": "https://www.tu.berlin/en/international/summer-school/summer-school",
     "intern_program": "",
-    "accomodation": "",
+    "accomodation": "호텔",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -707,20 +815,29 @@
       "언어·지역학"
     ],
     "program_date": "6. 7 - 7. 19",
-    "program_date_tidily": "",
-    "program_duration": "",
+    "program_date_tidily": "7월, 7-8월",
+    "program_duration": "4주, 6주",
     "application_due": "5. 10",
     "teaching_lang": "영어",
     "minimum_lang": "명시되어 있지 않음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "과목 맟 거주 형태\n마다 상이",
-    "link": "https://www.fubis.org/termine/fubistermine_2_25.html                  https://www.fubis.org/5_geb/_uebersicht/index.html ",
+    "link": "https://www.fubis.org/5_geb/_uebersicht/index.html ",
     "intern_program": "",
-    "accomodation": "",
+    "accomodation": "기숙사",
     "program_months": [
       {
-        "program_month": [],
+        "program_month": [
+          7
+        ],
+        "is_range": false
+      },
+      {
+        "program_month": [
+          8
+        ],
         "is_range": false
       }
     ]
@@ -744,8 +861,9 @@
     "application_due": "5. 31",
     "teaching_lang": "영어",
     "minimum_lang": "명시되어 있지 않음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "EUR 2070",
     "link": "https://uni-tuebingen.de/en/international/learning-languages/learn-german/international-summer-course/",
     "intern_program": "",
@@ -777,8 +895,9 @@
     "application_due": "4. 1",
     "teaching_lang": "영어",
     "minimum_lang": "명시되어 있지 않음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "프로그램마다 상이",
     "link": "https://www.academy.rwth-aachen.de/en/programs/short-courses?utm_source=mailing&utm_medium=hochschule&utm_campaign=summer-school-2023",
     "intern_program": "",
@@ -818,7 +937,7 @@
     "lat": 49.8777,
     "lng": 8.6562,
     "partner": "파트너대학",
-    "course_point": "기계·항공·전기 전공자 주목! 🚀 벤츠 견학 + 독일어 교육까지",
+    "course_point": "기계·항공·전기 전공을 위한 공대\n🚀 벤츠 견학 + 독일어 교육까지",
     "category": [
       "공학"
     ],
@@ -828,11 +947,12 @@
     "application_due": "3. 1 (Nomination)\n3. 30 (Application)",
     "teaching_lang": "영어",
     "minimum_lang": "없음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "부분 장학금",
-    "adv": "A(500만 원)",
-    "expense": 2900,
+    "adv": "A등급 국가(500만 원)",
+    "expense": "EUR 2900",
     "link": "https://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/kurzzeitprogramme_und_sommeruniversitaet/summer_university_engineering_and_language/index.en.jsp",
-    "intern_program": "기업탐방",
+    "intern_program": "",
     "accomodation": "기숙사",
     "program_months": [
       {
@@ -863,10 +983,11 @@
     "application_due": "프로그램마다 상이",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 100\nIELTS 6.0",
-    "partner_adv": "등록금 면제 신청해야하고, 파트너 대학에 우선권을 줌.",
+    "minimum_lang_tidily": "",
+    "partner_adv": "등록금 면제 신청 필요 (파트너 대학에 우선권을 줌)",
     "adv": "확인 필요 (24년 기준, 등록금 면제시 여비지원 X)",
     "expense": "프로그램마다 상이",
-    "link": "https://international.univie.ac.at/en/summer-and-winter-schools/univie-summer-schools/\n프로그램비 면제 관련: https://international.univie.ac.at/en/summer-and-winter-schools/general-information-about-application-and-scholarships/ ",
+    "link": "https://international.univie.ac.at/en/summer-and-winter-schools/univie-summer-schools/",
     "intern_program": "",
     "accomodation": "기숙사",
     "program_months": [
@@ -886,7 +1007,7 @@
     "lat": 49.2105,
     "lng": 16.6091,
     "partner": "",
-    "course_point": "멋진 홈페이지. 핫한 수업. 멋진 인턴십. \n배아학, GenAI, 밈, 법의학이 궁금하다면?",
+    "course_point": "멋진 홈페이지. 핫한 수업!\n배아학, GenAI, 법의학이 궁금하다면?",
     "category": [
       "공학",
       "사회과학",
@@ -901,12 +1022,13 @@
     "application_due": "5. 1",
     "teaching_lang": "영어",
     "minimum_lang": "B2 English (IELTS, TOFLE, Cambridge), 상황에 따라 B1 수용\n(자세하게 명시되어 있지 않음)",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "C(300만 원)",
+    "adv": "C등급 국가(300만 원)",
     "expense": "과목마다 상이",
     "link": "https://summeratmasaryk.cz/",
     "intern_program": "연구실인턴, 기업인턴",
-    "accomodation": "별도 확인 필요",
+    "accomodation": "",
     "program_months": [
       {
         "program_month": [
@@ -936,7 +1058,7 @@
     "lat": 41.5,
     "lng": 2.105,
     "partner": "파트너대학",
-    "course_point": "☏ 모든 분야 대기중 ☏ 자연과학, 공학, 인문, 사회, 예술",
+    "course_point": "☎️ 자연과학부터 인문예술까지 모든 분야 대기중 ☎️",
     "category": [
       "공학",
       "사회과학",
@@ -951,9 +1073,10 @@
     "application_due": "최종 5.31",
     "teaching_lang": "영어 / 스페인어",
     "minimum_lang": "없음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "",
-    "adv": "B(400만 원)",
-    "expense": "€930/course",
+    "adv": "B등급 국가(400만 원)",
+    "expense": "EUR 930/코스",
     "link": "https://www.uab.cat/web/uab-barcelona-summer-school-1345844075637.html",
     "intern_program": "",
     "accomodation": "기숙사",
@@ -990,9 +1113,10 @@
     "application_due": "4.16 / 5.7",
     "teaching_lang": "영어 / 불어",
     "minimum_lang": "TOEFL (iBT) 90\nIETLS 6.5\n듀오링고 130\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "€2900/session",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "EUR 2900/세션",
     "link": "https://www.sciencespo.fr/summer-school/en/",
     "intern_program": "",
     "accomodation": "홈스테이, 호스텔",
@@ -1019,7 +1143,7 @@
     "lat": 60.1848,
     "lng": 24.8281,
     "partner": "",
-    "course_point": "유럽 IT 중심지에서 게임개발, AI 🎮\n북유럽 디자인과 행복의 비결까지!",
+    "course_point": "유럽 IT 중심지에서 게임개발 🎮\n북유럽 디자인과 행복의 비결까지!",
     "category": [
       "공학",
       "사회과학",
@@ -1034,12 +1158,13 @@
     "application_due": "5. 31",
     "teaching_lang": "영어",
     "minimum_lang": "없음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "프로그램마다 상이",
     "link": "https://www.aalto.fi/en/aaltosummer",
     "intern_program": "",
-    "accomodation": "미제공",
+    "accomodation": "",
     "program_months": [
       {
         "program_month": [
@@ -1084,6 +1209,7 @@
     "application_due": "3. 12",
     "teaching_lang": "영어",
     "minimum_lang": "없음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "등록금 면제",
     "adv": "확인 필요 (24년 기준, 등록금 면제시 여비지원 X)",
     "expense": "프로그램마다 상이",
@@ -1128,9 +1254,10 @@
     "application_due": "5. 1",
     "teaching_lang": "영어",
     "minimum_lang": "없음",
+    "minimum_lang_tidily": "어학기준 없음",
     "partner_adv": "파트너 대학 제공 등록금 가격",
-    "adv": "A(500만 원)",
-    "expense": 1035,
+    "adv": "A등급 국가(500만 원)",
+    "expense": "EUR 1035",
     "link": "https://vu.nl/en/education/summerschool",
     "intern_program": "",
     "accomodation": "호텔",
@@ -1168,9 +1295,10 @@
     "application_due": "5. 10",
     "teaching_lang": "영어 / 러시아어",
     "minimum_lang": "B2+\n(자세하게 명시되어 있지 않음)",
+    "minimum_lang_tidily": "",
     "partner_adv": "등록금 20% 할인",
-    "adv": "A(500만 원)",
-    "expense": "RUB 3000 (registration fee) + \ncourse fee (프로그램마다 상이)",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "RUB 3000 (등록비) + \ncourse fee (프로그램마다 상이)",
     "link": "https://spb.hse.ru/en/io/sumsch/",
     "intern_program": "",
     "accomodation": "기숙사",
@@ -1208,12 +1336,13 @@
     "application_due": "3. 7",
     "teaching_lang": "영어 / 일본어",
     "minimum_lang": "TOEFL (itp): 550 \nTOEFL (iBT): 79 \nIELTS: 6.0",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "프로그램마다 상이",
     "link": "https://piloti.sophia.ac.jp/eng/studyabroad/short-term/",
     "intern_program": "",
-    "accomodation": "미제공",
+    "accomodation": "",
     "program_months": [
       {
         "program_month": [
@@ -1242,9 +1371,10 @@
     "application_due": "3. 7",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 79\nTOEFL (pbt) 550\nIETLS 6.0\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
-    "expense": "프로그램 및 거주 형태마다 \n상이",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "프로그램 및 거주 형태마다 상이",
     "link": "https://waseda-summer.com/",
     "intern_program": "",
     "accomodation": "기숙사",
@@ -1280,12 +1410,13 @@
     "application_due": "3. 14",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 90\nIETLS 6.5\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "등록금 15% 할인 (AUA 회원/USTEP 파트너 대학에 해당)",
-    "adv": "A(500만 원)",
-    "expense": "JPY 180,000/course +\nJPY 5,000 (application fee)",
+    "adv": "A등급 국가(500만 원)",
+    "expense": "JPY 180,000/코스 + JPY 5,000 (등록비)",
     "link": "https://www.u-tokyo.ac.jp/en/prospective-students/guc.html",
     "intern_program": "",
-    "accomodation": "미제공",
+    "accomodation": "",
     "program_months": [
       {
         "program_month": [
@@ -1331,6 +1462,7 @@
     "application_due": "2. 14",
     "teaching_lang": "영어 / 중국어",
     "minimum_lang": "TOEFL (iBT) 71\nIETLS 6.0\n",
+    "minimum_lang_tidily": "",
     "partner_adv": "등록금 면제",
     "adv": "확인 필요 (24년 기준, 등록금 면제시 여비지원 X)",
     "expense": "프로그램마다 상이",
@@ -1369,8 +1501,9 @@
     "application_due": "프로그램마다 상이하나, 대부분 2.7 (조기할인 10%), 3.21",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 80\nIETLS 6.0",
+    "minimum_lang_tidily": "",
     "partner_adv": "등록금 10% 할인",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "프로그램마다 상이",
     "link": "https://www.summerinstitute.hku.hk/programmes/undergraduate-postgraduate-programmes",
     "intern_program": "연구실인턴",
@@ -1423,8 +1556,9 @@
     "application_due": "3. 31",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL (iBT) 100\nIETLS 6.5",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "SGD 5,600",
     "link": "https://enterprise.nus.edu.sg/education-programmes/summer-programme/",
     "intern_program": "",
@@ -1457,12 +1591,13 @@
     "application_due": "4. 15",
     "teaching_lang": "영어",
     "minimum_lang": "TOEFL 90\nIELTS 6.5",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "SGD 3755 - 5965",
     "link": "https://geo.smu.edu.sg/study-in-smu/global-summer-programme",
     "intern_program": "",
-    "accomodation": "미제공",
+    "accomodation": "",
     "program_months": [
       {
         "program_month": [
@@ -1497,6 +1632,7 @@
     "application_due": "3. 31",
     "teaching_lang": "영어",
     "minimum_lang": "IELTS/ IELTS indicator: a minimum 6 (overall) and 6 (writing)\nTOEFL/ TOEFL iBT Special Home Edition: a minimum of 600 (paper) or 90 (internet) or 237 (computer). ",
+    "minimum_lang_tidily": "",
     "partner_adv": "등록금 면제 (최대 2코스)",
     "adv": "확인 필요 (24년 기준, 등록금 면제시 여비지원 X)",
     "expense": "SGD 1070",
@@ -1526,7 +1662,7 @@
     "lat": -34.9205,
     "lng": 138.6062,
     "partner": "",
-    "course_point": "호주 8대 명문대의 농업·생활과학 & 호주 와인 코스 🍷",
+    "course_point": "호주 8대 명문대의 농업·생활과학 수업\n& 호주 와인 코스 🍷",
     "category": [
       "자연과학",
       "사회과학",
@@ -1538,12 +1674,13 @@
     "application_due": 5.1,
     "teaching_lang": "영어",
     "minimum_lang": "IELTS 6.5\n(각 Band별 6.0 이상)\nTOEFL 79\n(Writing 21, Speaking 18, Reading and Listening 13 이상)",
+    "minimum_lang_tidily": "",
     "partner_adv": "",
-    "adv": "A(500만 원)",
+    "adv": "A등급 국가(500만 원)",
     "expense": "AUD 5,000 - 9,500",
     "link": "https://www.adelaide.edu.au/inbound-study-abroad/summer-winter-school ",
     "intern_program": "",
-    "accomodation": "미제공",
+    "accomodation": "",
     "program_months": [
       {
         "program_month": [

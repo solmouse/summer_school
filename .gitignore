@@ -4,4 +4,10 @@
 /package.json
 /public
 /src
-/webpack.config.js
+/webpack.common.js
+/webpack.dev.js
+/webpack.prod.js
+/xls2json.py
+/school_list.csv
+/school_list.xls
+/school_list.xlsx
