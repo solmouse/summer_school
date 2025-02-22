@@ -8,7 +8,7 @@ module.exports = merge(common, {
   output: {
     filename: "bundle.js",
     path: path.resolve(__dirname, "docs"), // 배포용 폴더
-    publicPath: "https://snuss.co.kr/summer_school/", // GitHub Pages용 publicPath 설정
+    publicPath: "/", // GitHub Pages용 publicPath 설정
   },
   plugins: [
     new CopyWebpackPlugin({
