@@ -29,6 +29,7 @@
     "link": "https://sce.cornell.edu/courses/programs/summer",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [
@@ -80,6 +81,7 @@
     "link": "https://www.stonybrook.edu/summer/",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [
@@ -119,6 +121,7 @@
     "link": "http://summer.yale.edu",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "",
     "program_months": [
       {
         "program_month": [
@@ -158,6 +161,7 @@
     "link": "https://summer.berkeley.edu/international",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [],
@@ -195,6 +199,7 @@
     "link": "https://summer.ucla.edu/student-types/visiting-college-students/#options",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [],
@@ -232,6 +237,7 @@
     "link": "https://visp.wisc.edu/summer/#january-march",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [],
@@ -269,6 +275,7 @@
     "link": "https://summer.harvard.edu/",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [],
@@ -306,6 +313,7 @@
     "link": "https://summer.uci.edu/",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [],
@@ -343,6 +351,7 @@
     "link": "https://summer.sas.upenn.edu/",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [],
@@ -380,6 +389,7 @@
     "link": "https://vancouversummerprogram.ubc.ca/",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사, 어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -419,6 +429,7 @@
     "link": "https://www.kcl.ac.uk/summer/university-level/undergraduate-summer-school",
     "intern_program": "연구실인턴",
     "accomodation": "기숙사",
+    "features": "인턴, 기숙사",
     "program_months": [
       {
         "program_month": [
@@ -470,6 +481,7 @@
     "link": "https://www.leeds.ac.uk/leeds-international-summer-school",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -515,6 +527,7 @@
     "link": "https://www.ucl.ac.uk/prospective-students/summer-school/",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -555,6 +568,7 @@
     "link": "https://www.york.ac.uk/global-summer/undergraduate/",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사, 어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -590,6 +604,7 @@
     "link": "https://le.ac.uk/cite/eltu/short-courses/summer",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -625,6 +640,7 @@
     "link": "https://www.qmul.ac.uk/summer-school/",
     "intern_program": "",
     "accomodation": "",
+    "features": "어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -666,6 +682,7 @@
     "link": "https://www.gla.ac.uk/study/visiting/internationalsummerschool/",
     "intern_program": "연구실인턴",
     "accomodation": "기숙사",
+    "features": "인턴, 기숙사",
     "program_months": [
       {
         "program_month": [
@@ -708,6 +725,7 @@
     "link": "https://studyinmexico.tec.mx/en/tec-summer-school",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사, 어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -750,6 +768,7 @@
     "link": "https://hic.hu-berlin.de/en/huwisu/courses/summer",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [
@@ -791,6 +810,7 @@
     "link": "https://www.tu.berlin/en/international/summer-school/summer-school",
     "intern_program": "",
     "accomodation": "호텔",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -827,6 +847,7 @@
     "link": "https://www.fubis.org/5_geb/_uebersicht/index.html ",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사, 어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -868,6 +889,7 @@
     "link": "https://uni-tuebingen.de/en/international/learning-languages/learn-german/international-summer-course/",
     "intern_program": "",
     "accomodation": "",
+    "features": "어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -902,6 +924,7 @@
     "link": "https://www.academy.rwth-aachen.de/en/programs/short-courses?utm_source=mailing&utm_medium=hochschule&utm_campaign=summer-school-2023",
     "intern_program": "",
     "accomodation": "",
+    "features": "어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -954,6 +977,7 @@
     "link": "https://www.tu-darmstadt.de/studieren/studieninteressierte/internationale_studieninteressierte/kurzzeitprogramme_und_sommeruniversitaet/summer_university_engineering_and_language/index.en.jsp",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사, 어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -990,6 +1014,7 @@
     "link": "https://international.univie.ac.at/en/summer-and-winter-schools/univie-summer-schools/",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -1029,6 +1054,7 @@
     "link": "https://summeratmasaryk.cz/",
     "intern_program": "연구실인턴, 기업인턴",
     "accomodation": "",
+    "features": "인턴",
     "program_months": [
       {
         "program_month": [
@@ -1080,6 +1106,7 @@
     "link": "https://www.uab.cat/web/uab-barcelona-summer-school-1345844075637.html",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사, 어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -1120,6 +1147,7 @@
     "link": "https://www.sciencespo.fr/summer-school/en/",
     "intern_program": "",
     "accomodation": "홈스테이, 호스텔",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -1165,6 +1193,7 @@
     "link": "https://www.aalto.fi/en/aaltosummer",
     "intern_program": "",
     "accomodation": "",
+    "features": "어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -1216,6 +1245,7 @@
     "link": "https://international.au.dk/education/admissions/summeruniversity/welcome-to-au-summer-university",
     "intern_program": "",
     "accomodation": "기숙사, 호텔",
+    "features": "기숙사, 어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -1261,6 +1291,7 @@
     "link": "https://vu.nl/en/education/summerschool",
     "intern_program": "",
     "accomodation": "호텔",
+    "features": "기숙사, 어학기준 없음",
     "program_months": [
       {
         "program_month": [
@@ -1302,6 +1333,7 @@
     "link": "https://spb.hse.ru/en/io/sumsch/",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -1343,6 +1375,7 @@
     "link": "https://piloti.sophia.ac.jp/eng/studyabroad/short-term/",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [
@@ -1378,6 +1411,7 @@
     "link": "https://waseda-summer.com/",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -1417,6 +1451,7 @@
     "link": "https://www.u-tokyo.ac.jp/en/prospective-students/guc.html",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [
@@ -1469,6 +1504,7 @@
     "link": "https://www.summer.cuhk.edu.hk/surp/",
     "intern_program": "연구실인턴",
     "accomodation": "기숙사",
+    "features": "인턴. 기숙사",
     "program_months": [
       {
         "program_month": [
@@ -1508,6 +1544,7 @@
     "link": "https://www.summerinstitute.hku.hk/programmes/undergraduate-postgraduate-programmes",
     "intern_program": "연구실인턴",
     "accomodation": "기숙사, 호텔",
+    "features": "인턴, 기숙사",
     "program_months": [
       {
         "program_month": [
@@ -1563,6 +1600,7 @@
     "link": "https://enterprise.nus.edu.sg/education-programmes/summer-programme/",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -1598,6 +1636,7 @@
     "link": "https://geo.smu.edu.sg/study-in-smu/global-summer-programme",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [
@@ -1639,6 +1678,7 @@
     "link": "https://ntu-sa.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11025",
     "intern_program": "",
     "accomodation": "기숙사",
+    "features": "기숙사",
     "program_months": [
       {
         "program_month": [
@@ -1681,6 +1721,7 @@
     "link": "https://www.adelaide.edu.au/inbound-study-abroad/summer-winter-school ",
     "intern_program": "",
     "accomodation": "",
+    "features": "",
     "program_months": [
       {
         "program_month": [
